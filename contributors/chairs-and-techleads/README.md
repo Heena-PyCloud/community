@@ -21,9 +21,7 @@ TODO
 
 Communication and feedback loops:  
 [Need to Know email archive]  
-[Monthly meeting]
-The chair and tech lead monthly meeting schedule: 2nd Tuesday and Thursday of the month at 730pm UTC and 430pm UTC respectively.
-
+[Monthly meeting]  
 Slack: #chairs-and-techleads, #sig-contribex  
 Mailing list: kubernetes-sig-leads@googlegroups.com  
 Github: File issues against kubernetes/community  
